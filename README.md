@@ -4,7 +4,7 @@ Last Modified: June 26, 2023
 
 Your data privacy is of utmost importance to us. This policy details: the data we accumulate and the reasons behind it; the manner in which your data is managed; and the privileges you possess regarding your data.
 
-This policy is applicable to all products developed and maintained by Nexforce Global Corp., including Copiloty by Nexforce.
+This policy is applicable to all products developed and maintained by Nexforce Global Corp., including Nexbot by Nexforce.
 
 **What we gather and the reasons behind it**
 
@@ -12,17 +12,17 @@ Our fundamental rule is to gather only what is necessary. Here's how this is rea
 
 **Identification & Accessibility**
 
-Upon registering for a product of Copiloty by Nexforce, we request identification details like your name, email address, and perhaps a company name. This enables you to customize your new account, and allows us to send you product news and vital updates. Periodically, we might send optional surveys to better understand your usage of our products and enhance them. With your approval, we will send you our newsletter and other updates. Occasionally, we offer the opportunity to add a profile image that appears in our products.
+Upon registering for a product of Nexbot by Nexforce, we request identification details like your name, email address, and perhaps a company name. This enables you to customize your new account, and allows us to send you product news and vital updates. Periodically, we might send optional surveys to better understand your usage of our products and enhance them. With your approval, we will send you our newsletter and other updates. Occasionally, we offer the opportunity to add a profile image that appears in our products.
 
 We will never market your personal information to third parties.
 
 **Billing Details**
 
-In case you register for a paid product of Copiloty by Nexforce, you will be asked to provide your payment details and billing address. Credit card information is directly submitted to our payment processor and never touches Nexforce servers. We keep a record of the payment transaction, including the last 4 digits of the credit card number, for account history, invoicing, and billing support. We store your billing address for charging you for service, calculating any sales tax due, sending invoices, and detecting fraudulent credit card transactions. We sporadically use aggregate billing information to direct our marketing efforts.
+In case you register for a paid product of Nexbot by Nexforce, you will be asked to provide your payment details and billing address. Credit card information is directly submitted to our payment processor and never touches Nexforce servers. We keep a record of the payment transaction, including the last 4 digits of the credit card number, for account history, invoicing, and billing support. We store your billing address for charging you for service, calculating any sales tax due, sending invoices, and detecting fraudulent credit card transactions. We sporadically use aggregate billing information to direct our marketing efforts.
 
 **Product interactions**
 
-Information that you upload, receive, or maintain in your Copiloty by Nexforce accounts is stored on our servers to ensure you can utilize our products effectively. This content is preserved as long as your account remains active. Upon the deletion of your account, we maintain the right to remove this content.
+Information that you upload, receive, or maintain in your Nexbot by Nexforce accounts is stored on our servers to ensure you can utilize our products effectively. This content is preserved as long as your account remains active. Upon the deletion of your account, we maintain the right to remove this content.
 
 **Geolocation data**
 
@@ -38,8 +38,8 @@ Nexforce Global Corp operates contextual advertisements on various third-party p
 
 We also employ persistent first-party cookies and certain third-party cookies to store preferences, simplify the use of our applications, facilitate A/B testing, and support analytics.
 
-A cookie is a piece of text that your browser saves. Cookies help remember login details and site preferences. They may also gather information such as your browser type, operating systemrvice into your use of our products. For instance, you might choose to connect your HubSpot account to your Copiloty by Nexforce account to access HubSpot information within Copiloty by Nexforce. Data transmitted through Copiloty by Nexforce to HubSpot will be stored by both Nexforce Global Corp and HubSpot.
-Nexforce Global Corp employees may assume your Copiloty by Nexforce account to deliver system diagnostics or assistance to you. For example, if a bug arises that we identify and need to understand in your account, we will only access your account data with your explicit permission and to the extent necessary. We'll also inform you when this happens.
+A cookie is a piece of text that your browser saves. Cookies help remember login details and site preferences. They may also gather information such as your browser type, operating systemrvice into your use of our products. For instance, you might choose to connect your HubSpot account to your Nexbot by Nexforce account to access HubSpot information within Nexbot by Nexforce. Data transmitted through Nexbot by Nexforce to HubSpot will be stored by both Nexforce Global Corp and HubSpot.
+Nexforce Global Corp employees may assume your Nexbot by Nexforce account to deliver system diagnostics or assistance to you. For example, if a bug arises that we identify and need to understand in your account, we will only access your account data with your explicit permission and to the extent necessary. We'll also inform you when this happens.
 We reserve the right to disclose your data to law enforcement, regulatory bodies, or legal counsel in compliance with any applicable law, regulation, subpoena, court order, legal process, or governmental request. In such circumstances, we will only share your data to the extent required and we will notify you unless we're legally prohibited from doing so.
 Data Protection
 The protection of your personal information is paramount to us. We take several measures to ensure your data is stored securely. This includes the use of encryption for data at rest and in transit, regular security audits and vulnerability scans, and training our staff in secure data handling practices.
