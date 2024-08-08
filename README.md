@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Last Modified: June 26, 2023
+Last Modified: August 8, 2024
 
 Your data privacy is of utmost importance to us. This policy details: the data we accumulate and the reasons behind it; the manner in which your data is managed; and the privileges you possess regarding your data.
 
